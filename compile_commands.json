@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/spixa/dev/pixelscroller/build",
+    "command": "/usr/bin/c++  -I/home/spixa/dev/pixelscroller/build/SFML-prefix/include -I/home/spixa/dev/pixelscroller/src  -std=c++20 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/pxs.dir/src/game_engine.cpp.o -c /home/spixa/dev/pixelscroller/src/game_engine.cpp",
+    "file": "/home/spixa/dev/pixelscroller/src/game_engine.cpp"
+  },
+  {
+    "directory": "/home/spixa/dev/pixelscroller/build",
+    "command": "/usr/bin/c++  -I/home/spixa/dev/pixelscroller/build/SFML-prefix/include -I/home/spixa/dev/pixelscroller/src  -std=c++20 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/pxs.dir/src/main.cpp.o -c /home/spixa/dev/pixelscroller/src/main.cpp",
+    "file": "/home/spixa/dev/pixelscroller/src/main.cpp"
+  }
+]
